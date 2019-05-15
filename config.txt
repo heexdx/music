@@ -1,5 +1,5 @@
-﻿token=token
-owner=454062883274489856
+token=token
+owner=576947377441603584
 prefix= P
 game= Pplay l Phelp
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
