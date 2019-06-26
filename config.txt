@@ -21,7 +21,8 @@ token = Token
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner = 472951521798127626
+owner = 482986964807843841
+
 
 
 // This sets the prefix for the bot
@@ -40,7 +41,7 @@ prefix = "1"
 // where X is the title. If you don't include an action, it will use the
 // default of "Playing"
 
-game = "1play l 1help"
+game = "1play"
 
 
 // If you set this, it will modify the default status of bot
@@ -90,7 +91,7 @@ npimages = false
 // Keep in mind that being connected to a voice channel uses additional bandwith,
 // so this option is not recommended if bandwidth is a concern.
 
-stayinchannel = false
+stayinchannel = true
 
 
 // This sets the maximum amount of seconds any track loaded can be. If not set or set
