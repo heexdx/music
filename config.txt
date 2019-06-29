@@ -21,7 +21,7 @@ token = Token
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner = 482986964807843841
+owner = 469163253147107328
 
 
 
